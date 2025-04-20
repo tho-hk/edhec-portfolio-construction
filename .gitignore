@@ -1,0 +1,16 @@
+# Virtual Environment
+venv/
+env/
+edhec/
+.env/
+.venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
